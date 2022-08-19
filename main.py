@@ -1,16 +1,11 @@
-# This is a sample Python script.
+print("Hello")
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+print("Parvez")
 
+print(5+5)
+print("5"+"5")
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('hello')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print(30-10)
+print(10%3)
+print(13%2)
+print(10//3)
