@@ -3,7 +3,7 @@
 Python with Some Basic Problem-Solving
 
 ## IDE
-[Intellij IDEA](https://www.jetbrains.com/pycharm/download/)
+[PyCharm](https://www.jetbrains.com/pycharm/download/)
 
 # Tracker 📅
 | Date        | Problem/ Assignment Name | Topic | Platform | Difficulty | Mood  | Explanation | Reference |
